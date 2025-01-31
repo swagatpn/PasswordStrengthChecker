@@ -12,7 +12,6 @@ This is a beginner-friendly Python project to check the strength of a password. 
 - Real-time feedback
 - Password visibility toggle
 - Password generator
-- Light/Dark mode toggle
 
 ## Requirements 
 - Python 3.8 or above
